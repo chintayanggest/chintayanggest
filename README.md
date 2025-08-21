@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Chinta 
+- 👋 Hi, I’m Chinta Yanggest Br Tarigan
 - 👀 I’m interested in Artificial Intelligent
 - 🌱 I’m currently learning Artificial intelligence foundation 
 - 📫 How to reach me? my email: chintacapric836@gmail.com
