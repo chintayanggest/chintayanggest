@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chinta Yanggest Br Tarigan
 - 👀 I’m interested in Artificial Intelligent
-- 🌱 I’m currently learning CNN , NLP and RAG
+- 🌱 I’m currently learning CNN, NLP, RAG, and GEN AI
 - 📫 How to reach me? my email: chintacapric836@gmail.com
 - ⚡ Fun fact: I am kinder than I look 🤣
 
